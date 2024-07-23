@@ -28,22 +28,6 @@
   color: #61dafb;
 }
 
-.data-grid-custom .MuiDataGrid-columnHeaders {
-  background-color: #007bff; /* Blue color */
-  color: white; /* White text */
-  height: 32px; /* Thinner header */
-  font-weight: bold;
-}
-
-.data-grid-custom .MuiDataGrid-columnHeader {
-  padding: 0 8px;
-}
-
-.data-grid-custom .MuiDataGrid-cell {
-  padding: 0 8px;
-}
-
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
